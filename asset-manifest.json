@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Bucket-List/static/css/main.63144196.css",
-    "main.js": "/Bucket-List/static/js/main.866b55fe.js",
-    "index.html": "/Bucket-List/index.html",
-    "main.63144196.css.map": "/Bucket-List/static/css/main.63144196.css.map",
-    "main.866b55fe.js.map": "/Bucket-List/static/js/main.866b55fe.js.map"
+    "main.css": "/bucket-list/static/css/main.63144196.css",
+    "main.js": "/bucket-list/static/js/main.866b55fe.js",
+    "index.html": "/bucket-list/index.html",
+    "main.63144196.css.map": "/bucket-list/static/css/main.63144196.css.map",
+    "main.866b55fe.js.map": "/bucket-list/static/js/main.866b55fe.js.map"
   },
   "entrypoints": [
     "static/css/main.63144196.css",
