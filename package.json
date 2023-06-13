@@ -1,8 +1,8 @@
 {
   "name": "3-props",
   "version": "0.1.0",
-  "homepage": "http://Maregowda.github.io/Bucket-List",
-  "private": true,
+  "homepage": "https://maregowda.github.io/Bucket-List",
+  "private": false,
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
